@@ -11,22 +11,25 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S Rutgers University, New Jersey, United States, 2018 - 2020
+* Ph.D The Hong Kong University of Science and Technology(Guangzhou), 2024 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2023/08: Research Assistant -- Financial Technology Thrust -- Society Hub
+  * The Hong Kong University of Science and Technology(Guangzhou)
+  * Research on Financial time series.
+  * Supervisor: Zixuan Yuan
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2023/04 - 2023/07: Natural Language Processing(NLP) Algorithm Engineer 
+  * Multimodal Clustering Algorithm design on Fintech Area for investment Banking.
   
+* 2021/03 - 2023/03: Technology Manager -- Peking University
+  * NLP algorithm design for Open License Compliance Automatic Detection tool.
+
+* 2020/03 - 2021/02: Software Engineer 
+  * Recommendation Algorithm design for Ecommerce Website.
+
 Skills
 ======
 * Skill 1
