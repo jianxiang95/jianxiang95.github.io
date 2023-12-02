@@ -21,9 +21,6 @@ Publications
 ======
 1. ongoing Research.
 
-Project
-======
-AI applications on Fintech Area, Dongguan Securities Co., Ltd.
 
 Education 
 ======
@@ -49,5 +46,13 @@ Service and leadership
 ======
 Western Returned Scholars Association
 
+Project
+======
+AI applications on Fintech Area, Dongguan Securities Co., Ltd.
+
+
 Talks
+======
+
+
 ------
