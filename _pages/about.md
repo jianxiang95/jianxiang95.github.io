@@ -31,7 +31,8 @@ Work
 * 2023/08: Research Assistant -- Financial Technology Thrust -- Society Hub
   * The Hong Kong University of Science and Technology(Guangzhou)
   * Research on Financial time series.
-  * Supervisor: Zixuan Yuan
+  * Research on 《Cross-modal Reinforced Prompting for Graph and Language Tasks》, https://openreview.net/pdf?id=vn3QK2cMRV
+  * https://github.com/jianxiang95/CMRP.git
 
 * 2023/04 - 2023/07: Natural Language Processing(NLP) Algorithm Engineer 
   * Multimodal Clustering Algorithm design on Fintech Area for investment Banking.
