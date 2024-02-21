@@ -12,7 +12,6 @@ redirect_from:
 Education
 ======
 * M.S Rutgers University, New Jersey, United States, 2018 - 2020
-* Ph.D The Hong Kong University of Science and Technology(Guangzhou), 2024 (expected)
 
 Work experience
 ======
