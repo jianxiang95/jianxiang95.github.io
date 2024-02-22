@@ -28,7 +28,7 @@ Education
 
 Work
 ======
-* 2023/08: Research Assistant -- Financial Technology Thrust -- Society Hub
+* 2023/08 - Now: Research Assistant -- Financial Technology Thrust -- Society Hub
   * The Hong Kong University of Science and Technology(Guangzhou)
   * Research on Financial time series.
   * Research on 《Cross-modal Reinforced Prompting for Graph and Language Tasks》,[paper address](https://openreview.net/pdf?id=vn3QK2cMRV), [code address](https://github.com/jianxiang95/CMRP.git)
