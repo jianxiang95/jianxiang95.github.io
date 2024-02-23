@@ -19,7 +19,7 @@ Ongoing Research.
 
 Publications 
 ======
-1. 《Cross-modal Reinforced Prompting for Graph and Language Tasks》,[paper address](https://openreview.net/pdf?id=vn3QK2cMRV), [code address](https://github.com/jianxiang95/CMRP.git)
+1. 《Killing Two Birds with One Stone: Cross-modal Reinforced Prompting for Graph and Language Tasks》,[paper address](https://openreview.net/pdf?id=vn3QK2cMRV), [code address](https://github.com/jianxiang95/CMRP.git)
 
 
 Education 
