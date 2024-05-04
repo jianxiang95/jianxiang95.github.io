@@ -16,8 +16,11 @@ Education
 Work experience
 ======
 * 2023/08: Research Assistant -- Financial Technology Thrust -- Society Hub
-  * The Hong Kong University of Science and Technology(Guangzhou)
-  * Research on Financial time series.
+  * The Hong Kong University of Science and Technology
+  * 1. 多因子模型，FOF选基（美股ETF, 债基）
+    关键词：多因子模型，fof，大类资产配置，风险控制
+  * 2. 学术论文: 基于大模型跨模态强化提示词研究–图和语言任务《Killing Two Birds with One Stone: Cross-modal Reinforced Prompting for Graph and Language Tasks》国际数据挖掘与知识发现大会 SIGKDD 2024 (CCF A+) 审稿中。
+关键词：大模型 LLM，强化学习，知识图谱，指令微调(instruction tuning)，提示微调（prompt tuning）
 
 
 * 2023/04 - 2023/07: Natural Language Processing(NLP) Algorithm Engineer 
