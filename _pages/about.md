@@ -10,8 +10,8 @@ redirect_from:
 
 I'm Jian Xiang, Research Assistant of The Hong Kong University of Science and Technology.
 
-1.My interests lie in Portfolio Management, Major Asset Classes Research, quantitative model and Artificial Intelligence. If any position is available, don't hesitate to contact with me. 
-2. Deep Learning, NLP development and Research experience in publishing top paper(CCF A+) like SIGKDD.
+* My interests lie in Portfolio Management, Major Asset Classes Research, quantitative model and Artificial Intelligence. If any position is available, don't hesitate to contact with me.
+*  Deep Learning, NLP development and Research experience in publishing top paper(CCF A+) like SIGKDD.
 
 NEWS
 ======
