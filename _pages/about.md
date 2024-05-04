@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jian Xiang(项健)"
+title: "Jian Xiang"
 excerpt: "Self Introduction"
 author_profile: true
 redirect_from: 
@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I'm Jian Xiang(项健), Research Assistant of The Hong Kong University of Science and Technology(Guangzhou).
+I'm Jian Xiang, Research Assistant of The Hong Kong University of Science and Technology.
 
-My current research interests are in artificial intelligence on Fintech Area, with a focus on the application of Financial time-series forecasting, Natural Lanugage Processing, Quantitative Trading and Portfolio Management.
-If you have interests on the research and applications vision, please feel free to reach me.
+1.My interests lie in Portfolio Management, Major Asset Classes Research, quantitative model and Artificial Intelligence. If any position is available, don't hesitate to contact with me. 
+2. Deep Learning, NLP development and Research experience in publishing top paper(CCF A+) like SIGKDD.
 
 NEWS
 ======
@@ -29,9 +29,11 @@ Education
 Work
 ======
 * 2023/08 - Now: Research Assistant -- Financial Technology Thrust -- Society Hub
-  * The Hong Kong University of Science and Technology(Guangzhou)
-  * Research on Financial time series.
+  * The Hong Kong University of Science and Technology
+  * 1. 多因子模型，FOF选基（美股ETF, 债基）
+    关键词：多因子模型，fof，大类资产配置，风险控制
   * Research on 《Killing Two Birds with One Stone: Cross-modal Reinforced Prompting for Graph and Language Tasks》,[paper address](https://openreview.net/pdf?id=vn3QK2cMRV), [code address](https://github.com/jianxiang95/CMRP.git)
+    关键词：大模型 LLM，强化学习，知识图谱，指令微调(instruction tuning)，提示微调（prompt tuning）
 
 * 2023/04 - 2023/07: Natural Language Processing(NLP) Algorithm Engineer 
   * Multimodal Clustering Algorithm design on Fintech Area for investment Banking.
@@ -48,7 +50,7 @@ Western Returned Scholars Association
 
 Project
 ======
-AI applications on Fintech Area, Dongguan Securities Co., Ltd.
+question-answer system with Financial LLM project for Dongguan Securities Co., Ltd.
 
 
 Talks
