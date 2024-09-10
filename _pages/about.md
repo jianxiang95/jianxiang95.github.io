@@ -11,7 +11,7 @@ redirect_from:
 I'm Jian Xiang, Research Assistant of The Hong Kong University of Science and Technology.
 
 * My interests lie in Portfolio Management, Major Asset Classes Research, quantitative model and Artificial Intelligence. If any position is available, don't hesitate to contact with me.
-*  Deep Learning, NLP development and Research experience in publishing top paper(CCF A+) like SIGKDD.
+*  TMT Artificial Intelligence industry Research, quantitative investment, fixed income investment and Research experience in publishing top paper(CCF A) like ACCM SIGKDD.
 
 NEWS
 ======
@@ -19,7 +19,8 @@ Ongoing Research.
 
 Publications 
 ======
-1. 《Killing Two Birds with One Stone: Cross-modal Reinforced Prompting for Graph and Language Tasks》,[paper address](https://dl.acm.org/doi/10.1145/3637528.3671742), [code address](https://github.com/JohnJiang12138/CMRP)
+1. ACM SIGKDD PAPER ACCEPTED!
+   《Killing Two Birds with One Stone: Cross-modal Reinforced Prompting for Graph and Language Tasks》,[paper address](https://dl.acm.org/doi/10.1145/3637528.3671742), [code address](https://github.com/JohnJiang12138/CMRP)
 
 
 Education 
