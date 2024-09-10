@@ -16,11 +16,11 @@ Education
 Work experience
 ======
 * 2023/08: Research Assistant -- Financial Technology Thrust, The Hong Kong University of Science and Technology
-  * 多因子模型，FOF选基（美股ETF, 债基）
+  * TMT人工智能行业研究，大类资产配置，量化投资，固定收益投资
     
-    关键词：多因子模型，fof，大类资产配置，风险控制
+    关键词：TMT海外科技行业研究，大类资产配置，量化交易，固收+策略
     
-  * 学术论文: 基于大模型跨模态强化提示词研究–图和语言任务《Killing Two Birds with One Stone: Cross-modal Reinforced Prompting for Graph and Language Tasks》国际数据挖掘与知识发现大会 SIGKDD 2024 (CCF A+) 审稿中。
+  * 学术论文: 基于大模型跨模态强化提示词研究–图和语言任务《Killing Two Birds with One Stone: Cross-modal Reinforced Prompting for Graph and Language Tasks》国际数据挖掘与知识发现大会ACM SIGKDD 2024 (CCF A)已接收。
     
     关键词：大模型 LLM，强化学习，知识图谱，指令微调(instruction tuning)，提示微调（prompt tuning）
 
@@ -32,7 +32,7 @@ Work experience
   * NLP algorithm design for Open License Compliance Automatic Detection tool.
 
 * 2020/03 - 2021/02: Software Engineer 
-  * Recommendation Algorithm design for Ecommerce Website.
+  * Fund research in fintech group.
 
 Skills
 ======
