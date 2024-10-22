@@ -16,9 +16,9 @@ Education
 Work experience
 ======
 * 2023/08: Research Assistant -- Financial Technology Thrust, The Hong Kong University of Science and Technology
-  * TMT人工智能行业研究，大类资产配置，量化投资，固定收益投资
+  * TMT人工智能行业研究,对话问答项目
     
-    关键词：TMT海外科技行业研究，大类资产配置，量化交易，固收+策略
+    关键词：TMT人工智能行业研究，人工智能文本生成AIGC, LLM
     
   * 学术论文: 基于大模型跨模态强化提示词研究–图和语言任务《Killing Two Birds with One Stone: Cross-modal Reinforced Prompting for Graph and Language Tasks》国际数据挖掘与知识发现大会ACM SIGKDD 2024 (CCF A)已接收。
     
@@ -36,12 +36,9 @@ Work experience
 
 Skills
 ======
-* Portfolio Management, FOF, Financial Risk Management, LLM, NLP, PyTorch, Python
+* AIGC, LLM, NLP, PyTorch, Python
   * Sub-skill 1.1 
-    Multi-factor Model, FOF, Financial Time Series Forecasting
-
-  * Sub-skill 1.2
-    Text Data Mining: LLM, Reinforcement Learning, Information Extraction, Clustering Algorithm
+    AIGC, LLM, Reinforcement Learning, Information Extraction, Clustering Algorithm
 
 
 Publications
