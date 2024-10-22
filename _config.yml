@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jian Xiang(项健)/FOF Investment | CFA | Quantitative Analyst | NLP Algorithm Engineer"
+title                    : "Charles"
 title_separator          : "-"
-name                     : &name "Jian Xiang(项健)"
-description              : &description "Research Assistant in The Hong Kong University of Science and Technology. I have great interests in Portfolio Management, Major Asset Classes Research, quantitative model and Artificial Intelligence. If any position is available, don't hesitate to contact with me."
+name                     : &name "Charles"
+description              : &description "Research Assistant in The Hong Kong University of Science and Technology"
 url                      : https://jianxiang95.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jianxiang95.github.io"
