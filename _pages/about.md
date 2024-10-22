@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jian Xiang"
+title: "Charles"
 excerpt: "Self Introduction"
 author_profile: true
 redirect_from: 
